@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sambhaji dhore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sambhaji dhore" height="30" width="40" /></a>
+ <a href="https://sampatil98.github.io/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3281/3281289.png" alt="sambhaji dhore" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
